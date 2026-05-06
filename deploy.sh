@@ -5,4 +5,5 @@ ps aux
 tail -f
 head
 ifconfig
+free -m
 netstat -tulnup
